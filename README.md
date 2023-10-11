@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard-Power-BI
 this is an end to end power bi project
-
+Objective: To help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR analytics dashboard
 
 
 
